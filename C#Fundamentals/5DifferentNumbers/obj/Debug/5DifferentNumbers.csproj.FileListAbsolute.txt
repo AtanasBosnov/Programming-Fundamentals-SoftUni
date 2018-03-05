@@ -1,0 +1,6 @@
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe.config
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\bin\Debug\5DifferentNumbers.pdb
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\obj\Debug\5DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\obj\Debug\5DifferentNumbers.exe
+C:\Users\Yeah\source\repos\SoftUniFundamentas\5DifferentNumbers\obj\Debug\5DifferentNumbers.pdb
