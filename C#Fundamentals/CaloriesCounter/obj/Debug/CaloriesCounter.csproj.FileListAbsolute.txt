@@ -1,0 +1,7 @@
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\obj\Debug\CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\obj\Debug\CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

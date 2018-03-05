@@ -1,0 +1,7 @@
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+c:\users\yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb
+C:\Users\Yeah\source\repos\SoftUniFundamentas\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
